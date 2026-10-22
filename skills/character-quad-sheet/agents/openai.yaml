@@ -1,0 +1,4 @@
+interface:
+  display_name: "角色四宫格定妆"
+  short_description: "Generate 4-panel character turnaround sheets"
+  default_prompt: "Use $character-quad-sheet to generate a four-panel turnaround sheet for this character."

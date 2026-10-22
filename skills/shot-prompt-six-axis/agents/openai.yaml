@@ -1,0 +1,4 @@
+interface:
+  display_name: "分镜六维提示词"
+  short_description: "Six-axis shot prompts for image-to-video"
+  default_prompt: "Use $shot-prompt-six-axis to write or audit shot prompts for image-to-video."

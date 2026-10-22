@@ -1,0 +1,4 @@
+interface:
+  display_name: "单集生产流水线"
+  short_description: "Storyboard to keyframes and video prompts"
+  default_prompt: "Use $episode-pipeline to produce the full asset package for this episode."

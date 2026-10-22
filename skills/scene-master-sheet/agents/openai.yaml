@@ -1,0 +1,4 @@
+interface:
+  display_name: "场景基准图"
+  short_description: "Lock one wide master image per scene"
+  default_prompt: "Use $scene-master-sheet to create a wide master reference image for this scene."
